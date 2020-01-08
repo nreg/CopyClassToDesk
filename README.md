@@ -1,0 +1,2 @@
+# CopyClassToDesk
+拷贝你选中的java文件它对应的class文件到你的桌面，并含有它的层级文件夹，节约你的部署时间
